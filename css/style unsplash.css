@@ -1,0 +1,181 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    overflow-x: hidden;
+}
+.navbar-brand{
+    font-size: 90%;
+}
+
+.nav-link{
+    margin-right: 10%;
+}
+.dot{
+    font-size: 150%;
+    position: relative;
+    bottom: 30%;
+}
+.btn-outline-dark{
+position: relative;
+right: 15%;
+border-color: grey;
+}
+.stroke{
+    font-size: 200%;
+    position: relative;
+    right: 13%;
+}
+.log{
+    position: relative;
+    right: 8%;
+}
+.btn-success{
+    position: relative;
+    right: 2%;
+}
+.container2{
+    display: flex;
+    justify-content: space-around;
+    color: rgb(131, 125, 125);
+    margin-top: 2%;
+}
+.ed{
+    border-bottom: 2px solid black ;
+    color: black;
+}
+.container2 p:hover{
+    color: black;
+ } 
+
+.container3{
+    background-image: url("../img/bac.unsplash");
+    color: white;
+    width: 100%;
+    background-size: cover;
+    height: 80vh;
+}
+.unsplash{
+    position: relative;
+    top: 20%;
+    left: 20%;
+    font-size: 350%;
+    font-weight: bolder;
+}
+.internet{
+    position: relative;
+    top: 20%;
+    left: 20%;
+    font-size: large;
+}
+
+
+.usable
+a:link, a:visited{
+    color: white;
+    text-decoration: underline;
+}
+.usable:hover{
+    font-size: larger;
+}
+.creators{
+    position: relative;
+    top: 20%;
+    left: 20%;
+    font-size: large;
+}
+.highphoto{
+    position: relative;
+    top: 40%;
+    left: 20%;
+}
+#photo{
+    padding: 1%;
+    width: 800px;
+    border: none;
+    border-radius: 0.2em;
+}
+.trending{
+    position: relative;
+    top: 20%;
+    left: 20%; 
+    font-size: 90%;
+}
+.trend{
+    font-size: large;
+}
+.container4{
+    position: relative;
+    top: 37%;
+    left: 95%;
+    font-size: 150%;  
+}
+.ix{
+    background-color: rgb(199, 194, 194);
+}
+.container5{
+    display: flex;
+    justify-content: space-between;
+    font-size: 80%;
+    position: relative;
+    top:35%;
+}
+.container6{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 2%;
+}
+.pic{
+    width: 30%;
+    height: 50%;
+
+}
+.container7{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 1%;   
+}
+.pic2{
+    width: 30%;
+    height: 50%;
+}
+.fea{
+    font-size: 60%;
+}
+.edit{
+    border-right: 1px solid rgb(214, 214, 214);
+}
+    
+ #icon{
+    width: 500px;
+    height: 40px;
+    border-left: none;
+    border-bottom-right-radius: 2em;
+    border-top-right-radius: 2em;
+    border: none;
+    background-color: rgb(230, 225, 225);
+}
+#searchicon{
+    border-right: none;
+    border-bottom-left-radius: 2em;
+    border-top-left-radius: 2em;
+    background-color: rgb(230, 225, 225);
+    }
+    
+
+#bigsearch{
+    position: relative;
+    top: 20%;
+    left: 20%;
+}
+#icon2{
+    border-left: none;
+    width: 700px;
+    padding: 4%;
+    padding-left: 1%;
+}
+#searchicon2{
+    font-size: large;
+    
+}
